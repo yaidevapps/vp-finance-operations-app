@@ -54,7 +54,7 @@ with st.sidebar:
     """)
 
 # Main chat interface
-st.title("💬 Chat Interface")
+st.title("💬 Mark's V.P. of Finance & Operations Assistant")
 
 # Display chat messages
 for message in st.session_state.messages:
